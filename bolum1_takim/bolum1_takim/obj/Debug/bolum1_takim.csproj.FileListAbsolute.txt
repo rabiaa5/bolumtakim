@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\bin\Debug\bolum1_takim.exe.config
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\bin\Debug\bolum1_takim.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\bin\Debug\bolum1_takim.pdb
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.exe
+C:\Users\User\Desktop\KORUMASIZ\rabia kılıçoğlu\bolum1_takim\bolum1_takim\obj\Debug\bolum1_takim.pdb
